@@ -1,6 +1,6 @@
 # 🎮 Rockstar Landing Page — GTA VI Inspired
 
-A visually captivating, animated landing page inspired by **GTA VI**'s aesthetics. Built with **React.js**, **GSAP**, and **Tailwind CSS**, this project showcases advanced UI animation techniques, SVG masking, and responsive design.
+A visually captivating, animated landing page inspired by **GTA VI**'s aesthetics. Built with **React.js**, **GSAP**, and **Tailwind CSS**, this project showcases advanced UI animation techniques, SVG masking.
 
 ## ✨ Features
 
