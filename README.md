@@ -1,12 +1,24 @@
-# React + Vite
+# 🎮 Rockstar Landing Page — GTA VI Inspired
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually captivating, animated landing page inspired by **GTA VI**'s aesthetics. Built with **React.js**, **GSAP**, and **Tailwind CSS**, this project showcases advanced UI animation techniques, SVG masking, and responsive design.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🚀 Cinematic Intro Animation with SVG Masking
+- 🌀 Smooth Element Transitions using GSAP Timeline
+- 🎮 GTA-Themed Parallax Hover Effect
+- 🎨 Fully Responsive Layout with Tailwind CSS
+- 🔥 React + useGSAP Hook Integration for State-Based Animation
+- 🖱️ Interactive Mousemove-Based Visual Shifts
+- 📱 Mobile-Friendly & Performance Optimized
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![image](https://github.com/user-attachments/assets/608ce873-5343-4061-9aba-1592b6fc11f1)
+
+> Intro animation transitions from a VI text mask to an immersive, animated main section featuring layered imagery and interactive movement.
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend library
+- **GSAP (GreenSock Anima**
