@@ -59,7 +59,7 @@ function App() {
     gsap.to(".girl",{
       scale:0.7,
       x:"-50%",
-      bottom:"-80%",
+      bottom:"-50%",
       rotate:0,
       duration:2,
       delay:"-.8",
