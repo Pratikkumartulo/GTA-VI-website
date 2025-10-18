@@ -21,4 +21,4 @@ A visually captivating, animated landing page inspired by **GTA VI**'s aesthetic
 ## 🛠️ Tech Stack
 
 - **React.js** – Frontend library
-- **GSAP (GreenSock Anima**
+- **GSAP (GreenSock Animation)**
